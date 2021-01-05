@@ -1,0 +1,6 @@
+database_credentials.php
+*.log
+*.conf
+node_modules/
+vendor/
+
